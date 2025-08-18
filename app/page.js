@@ -446,7 +446,7 @@ export default function Home() {
             
             <motion.div variants={item} className="relative h-96 rounded-xl overflow-hidden shadow-lg">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.324674832825!2d88.2636053153596!3d22.49694298522746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0279c91a8d2a6d%3A0x6a1a9b0c8b7e1b1d!2sSantoshpur%20Avenue%2C%20Near%20Mini%20Bus%20Stand%2C%20Adipally%2C%20Santoshpur%20Kolkata%2C%20Kolkata%2C%20West%20Bengal%20700075!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.298267200705!2d88.3884638!3d22.492989800000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02713a4f894e27%3A0xb221240f0667982!2sNew%20Head%20Turners!5e0!3m2!1sen!2sin!4v1755517115535!5m2!1sen!2sin"
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }}
