@@ -410,11 +410,10 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <motion.div variants={item} className="space-y-6">
               <h3 className="text-2xl font-semibold text-yellow-700">New Head Turners</h3>
-              <p className="text-gray-700">
-                Santoshpur Avenue, Near Mini Bus Stand,<br />
-                Adipally, Santoshpur Kolkata,<br />
-                Kolkata, West Bengal, 700075
-              </p>
+<p className="text-black">
+                  154,Santoshpur Avenue, 1st Floor, Kolkata- 700075<br />
+                  (OLD Minibus Stand, OPP. Central Bank)
+                </p>
               
               <div className="space-y-2">
                 <p className="text-gray-700">
