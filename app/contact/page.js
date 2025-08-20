@@ -182,11 +182,10 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-white mb-1">Our Location</h4>
-                    <p className="text-yellow-200">
-                      Santoshpur Avenue, Near Mini Bus Stand<br />
-                      Adipally, Santoshpur Kolkata<br />
-                      Kolkata, West Bengal 700075
-                    </p>
+<p className="text-yellow-300">
+                  154,Santoshpur Avenue, 1st Floor, Kolkata- 700075<br />
+                  (OLD Minibus Stand, OPP. Central Bank)
+                </p>
                   </div>
                 </div>
                 
@@ -227,9 +226,9 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold text-white mb-1">Opening Hours</h4>
                     <div className="text-yellow-200 space-y-1">
-                      <p>Monday - Friday: 10:00 AM - 8:00 PM</p>
-                      <p>Saturday: 9:00 AM - 9:00 PM</p>
-                      <p>Sunday: 10:00 AM - 6:00 PM</p>
+                      <p>Monday - Sunday: 11:00 AM - 8:00 PM</p>
+                      {/* <p>Saturday: 9:00 AM - 9:00 PM</p>
+                      <p>Sunday: 10:00 AM - 6:00 PM</p> */}
                     </div>
                   </div>
                 </div>

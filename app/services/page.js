@@ -248,7 +248,7 @@ export default function Services() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {[
                 {
-                  title: "Signature Facial",
+                  title: "Signature Spa",
                   description: "Customized facial with premium skincare products",
                   duration: "1.5 hrs",
                   price: "₹3,500"

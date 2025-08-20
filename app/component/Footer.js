@@ -58,7 +58,6 @@ const Footer = () => {
                 { name: 'Home', href: '/' },
                 { name: 'About Us', href: '/about' },
                 { name: 'Services', href: '/services' },
-                { name: 'Gallery', href: '/gallery' },
                 { name: 'Contact', href: '/contact' },
               ].map((link) => (
                 <li key={link.name}>
@@ -101,8 +100,8 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <FaMapMarkerAlt className="text-yellow-400 mt-1 flex-shrink-0" />
                 <p className="text-yellow-300">
-                  Santoshpur Avenue, Near Mini Bus Stand,<br />
-                  Kolkata, West Bengal 700075
+                  154,Santoshpur Avenue, 1st Floor, Kolkata- 700075<br />
+                  (OLD Minibus Stand, OPP. Central Bank)
                 </p>
               </div>
               
