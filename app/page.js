@@ -428,17 +428,10 @@ export default function Home() {
                 <h4 className="font-semibold text-lg mb-3">Opening Hours</h4>
                 <ul className="space-y-1">
                   <li className="flex justify-between max-w-xs">
-                    <span>Monday - Friday:</span>
-                    <span>10:00 AM - 8:00 PM</span>
+                    <span>Monday - Sunday:</span>
+                    <span>11:00 AM - 8:00 PM</span>
                   </li>
-                  <li className="flex justify-between max-w-xs">
-                    <span>Saturday:</span>
-                    <span>9:00 AM - 9:00 PM</span>
-                  </li>
-                  <li className="flex justify-between max-w-xs">
-                    <span>Sunday:</span>
-                    <span>10:00 AM - 6:00 PM</span>
-                  </li>
+                 
                 </ul>
               </div>
             </motion.div>
